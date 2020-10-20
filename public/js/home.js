@@ -266,6 +266,7 @@ function userLogin(){
             }
         });
     }
+    let wonder = 'test';
 }
 
 //user register need to move to a new file
